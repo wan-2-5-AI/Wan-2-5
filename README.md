@@ -12,9 +12,7 @@
 
 Wan 2.5 is a revolutionary AI-powered video generation platform that transforms text prompts and images into cinematic-quality videos with synchronized audio. Built with advanced AI technology, Wan 2.5 enables creators, marketers, educators, and businesses to produce professional video content in minutes, not hours.
 
-> **Wan 2.5 Demo & Gallery**: [https://wan25.co](https://wan25.co)
->
-> **Official Platform**: [https://wan25.co/ai-video-generator](https://wan25.co/ai-video-generator)
+> **Wan 2.5 AI Video Generator**: [https://wan25.co](https://wan25.co)
 
 ## 🚀 Key Features
 
