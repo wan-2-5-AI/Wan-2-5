@@ -143,9 +143,6 @@ natural lighting, confident gestures, synchronized speech"
 ## 🔗 Resources
 
 - **Official Website**: [wan25.co](https://wan25.co)
-- **Video Gallery**: [wan25.co/gallery](https://wan25.co/gallery)
-- **Documentation**: [wan25.co/docs](https://wan25.co/docs)
-- **API Reference**: [wan25.co/api](https://wan25.co/api)
 - **Support**: [support@wan25.co](mailto:support@wan25.co)
 
 ## 📈 Latest Updates
